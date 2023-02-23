@@ -6,6 +6,6 @@ just like the name says its a homemade alexa
 
 On the terminal run
 
-"""cd HomemadeAlexa"""
+cd HomemadeAlexa
 
-"""pip install speech_recognition pyttsx3 pywhatkit wikipedia pyjokes"""
+pip install speech_recognition pyttsx3 pywhatkit wikipedia pyjokes
